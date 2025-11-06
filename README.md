@@ -1,5 +1,5 @@
 # 📊 Análise Exploratória de índice de Desenvolvimento Humano (IDH) por País e Continente  
-### 🧠 Exploratory Data Analysis of Human Development Indicators (HDI) by Country and Continent  
+### 🧠 Exploratory Data Analysis of Human Development Index (HDI) by Country and Continent  
 
 ---
 
