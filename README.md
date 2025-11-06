@@ -44,7 +44,6 @@ The analysis was built in **Python** using **Jupyter Notebook**, based on an Exc
 - Padronização dos nomes dos países.  
 
 ### 3. Tratamento de Dados Ausentes / Missing Data Handling  
-- Substituição de valores nulos na coluna *“Continente”* por `"Oceania"`.  
 - Verificação com `isna()` e `info()`.
 
 ### 4. Análises Estatísticas / Statistical Analysis  
